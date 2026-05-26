@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="PerilyaNewsTicker"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="4b9628ac-3eaa-4517-9abb-9e2f48629c48"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

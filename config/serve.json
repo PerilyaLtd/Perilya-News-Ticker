@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://perilyaltd.sharepoint.com/sites/intranettest/SitePages/myPage.aspx",
+      "customActions": {
+        "4b9628ac-3eaa-4517-9abb-9e2f48629c48": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "perilyaNewsTicker": {
+      "pageUrl": "https://perilyaltd.sharepoint.com/sites/intranettest/SitePages/myPage.aspx",
+      "customActions": {
+        "4b9628ac-3eaa-4517-9abb-9e2f48629c48": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.2",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "perilya-news-ticker",
+    "libraryId": "2a46f936-e902-491d-82d1-1462809056cb",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "perilya-news-ticker",
+    "solutionShortDescription": "perilya-news-ticker description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
