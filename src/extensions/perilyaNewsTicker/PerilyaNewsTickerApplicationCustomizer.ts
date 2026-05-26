@@ -68,6 +68,8 @@ export default class PerilyaNewsTickerApplicationCustomizer
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
       font-size: 14px;
     }
+    .test{
+      color: red;}
     #perilya-news-ticker .ticker-inner {
       display: inline-block;
       white-space: nowrap;
