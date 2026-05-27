@@ -59,7 +59,7 @@ export default class PerilyaNewsTickerApplicationCustomizer
       top: 0;
       left: 0;
       width: 100%;
-      background: #0b3b66;
+      background: #ffdee4;
       color: #ffffff;
       z-index: 99999;
       overflow: hidden;
