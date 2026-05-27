@@ -75,6 +75,7 @@ export default class PerilyaNewsTickerApplicationCustomizer
       will-change: transform;
       animation: perilya-ticker-scroll 36s linear infinite;
     }
+      .Test{}
     #perilya-news-ticker .ticker-item { display: inline-block; margin-right: 40px; }
     @keyframes perilya-ticker-scroll {
       0% { transform: translateX(0%); }
